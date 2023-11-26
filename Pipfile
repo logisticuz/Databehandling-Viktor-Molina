@@ -11,6 +11,7 @@ seaborn = "*"
 ipykernel = "*"
 jupyter = "*"
 openpyxl = "*"
+plotly = "*"
 
 [dev-packages]
 
