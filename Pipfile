@@ -12,6 +12,7 @@ ipykernel = "*"
 jupyter = "*"
 openpyxl = "*"
 plotly = "*"
+kaleido = "*"
 
 [dev-packages]
 
